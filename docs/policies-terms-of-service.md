@@ -1,5 +1,5 @@
 ---
-title: POLICIES TERMS OF SERVICE
+title: Policies Terms Of Service
 sidebar_position: 99
 ---
 
