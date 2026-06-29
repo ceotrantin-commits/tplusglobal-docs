@@ -61,6 +61,7 @@ const sidebars = {
 
     'partnership-program',
     'affiliate-program',
+    'policies-terms-of-service',
   ],
 };
 
