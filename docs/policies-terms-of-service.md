@@ -67,13 +67,13 @@ Your information is an important part of our business, and we are not in the bus
 - Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs.
 ## 3. Terms of Services
 
-This is an agreement between you and TPlus Global, including but not limited to TPlus Global and its affiliates who are operating app.tplusglobal.co ("TPlus Global" or "we"). Please read these Terms of Services, and the other applicable rules, policies, and terms available at the app.tplusglobal.co website. By using the Services, you agree to be bound by the terms of this Agreement on behalf of yourself and your company and others who use Services under your account.
+This is an agreement between you and TPlus Global, including but not limited to TPlus Global and its affiliates who are operating https://app.tplusglobal.co ("TPlus Global" or "we"). Please read these Terms of Services, and the other applicable rules, policies, and terms available at the https://app.tplusglobal.co website. By using the Services, you agree to be bound by the terms of this Agreement on behalf of yourself and your company and others who use Services under your account.
 
 For the purpose of these Terms of Services:
 
 **"Services"** means the provision of TikTok Software, Digital Content, and support and other available resources that TikTok and TPlus Global provide to you. TPlus Global is an Agency of TikTok Pte. Ltd. under Framework Agreement dated 25 June 2021. TPlus Global will help you to create advertising accounts under TPlus Global's Agency account and provide related support that allow you to run such advertising accounts for your business purpose.
 
-**"Website"** means app.tplusglobal.co
+**"Website"** means https://app.tplusglobal.co
 
 **"TikTok Software"** means all software TikTok makes available to you for use and you must comply with all policies of TikTok, and TPlus Global shall not be responsible for any resources when you are using TikTok as advertising channels.
 
