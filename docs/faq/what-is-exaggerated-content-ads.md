@@ -14,7 +14,11 @@ Exaggerated content ads are advertisements that contain statements or claims tha
 
 - An ad that claims a product is made from **100% natural ingredients** without any scientific backing.
 
-> **Example image:** content_ads.png
+<img
+  src="/img/faq/exaggerated-content/content_ads.png"
+  alt="Content Ads Example"
+  style={{ maxWidth: '420px', width: '100%' }}
+/>
 
 ## How to solve
 
