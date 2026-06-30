@@ -62,7 +62,18 @@ const sidebars = {
     'partnership-program',
     'affiliate-program',
     'policies-terms-of-service',
+  {
+  type: 'category',
+  label: 'FAQ',
+  link: {
+    type: 'doc',
+    id: 'faq/index',
+  },
+  collapsed: false,
+  items: [
+    'faq/what-is-exaggerated-content-ads',
+    'faq/why-should-we-follow-best-practice',
+    'faq/how-can-i-connect-with-support-team',
+    'faq/why-tiktok-ads-arent-spending',
   ],
-};
-
-export default sidebars;
+},
